@@ -22,7 +22,7 @@ In this Scenario, we will use Azure Event Hubs to ingest streaming vehicle telem
 
 ![image](https://github.com/user-attachments/assets/dd60cb6c-1746-47fd-8191-e1cee93edfd9)
 
-7.go tomstream analytics job,give input-event hub
+7.go to stream analytics job,give input-event hub
 
 ![image](https://github.com/user-attachments/assets/a30185e2-40f2-4b78-b8bf-9c33e30db175)
 
